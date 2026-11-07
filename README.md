@@ -1,6 +1,6 @@
 # Bike Sharing Analytics Dashboard
 
-Proyek analisis data dan pengembangan dashboard interaktif menggunakan Bike Sharing Dataset (2011–2012)[cite: 1, 5, 10].
+Proyek analisis data dan pengembangan dashboard interaktif menggunakan Bike Sharing Dataset.
 
 ## Struktur Direktori
 
